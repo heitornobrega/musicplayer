@@ -6,3 +6,4 @@ Application capable of playing songs from the most celebrated bands and artists,
 * JavaScript
 * React.js
 * React Router
+* Tailwind CSS
